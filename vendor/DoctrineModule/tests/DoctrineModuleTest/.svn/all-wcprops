@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/doctrine/DoctrineModule/!svn/ver/280/trunk/tests/DoctrineModuleTest
+END
+ServiceManagerTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/doctrine/DoctrineModule/!svn/ver/271/trunk/tests/DoctrineModuleTest/ServiceManagerTestCase.php
+END

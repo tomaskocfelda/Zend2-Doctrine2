@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/doctrine/DoctrineModule/!svn/ver/229/trunk/tests/DoctrineModuleTest/Authentication/Adapter/TestAsset
+END
+PublicPropertiesIdentityObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/doctrine/DoctrineModule/!svn/ver/229/trunk/tests/DoctrineModuleTest/Authentication/Adapter/TestAsset/PublicPropertiesIdentityObject.php
+END
+IdentityObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/doctrine/DoctrineModule/!svn/ver/229/trunk/tests/DoctrineModuleTest/Authentication/Adapter/TestAsset/IdentityObject.php
+END

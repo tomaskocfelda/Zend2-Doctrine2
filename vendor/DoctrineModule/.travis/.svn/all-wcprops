@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/doctrine/DoctrineModule/!svn/ver/218/trunk/.travis
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/doctrine/DoctrineModule/!svn/ver/218/trunk/.travis/composer.json
+END
+application.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/doctrine/DoctrineModule/!svn/ver/166/trunk/.travis/application.config.php
+END

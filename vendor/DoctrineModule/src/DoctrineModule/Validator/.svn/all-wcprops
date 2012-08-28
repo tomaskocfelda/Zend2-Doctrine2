@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/doctrine/DoctrineModule/!svn/ver/229/trunk/src/DoctrineModule/Validator
+END
+NoObjectExists.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/doctrine/DoctrineModule/!svn/ver/229/trunk/src/DoctrineModule/Validator/NoObjectExists.php
+END
+ObjectExists.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/doctrine/DoctrineModule/!svn/ver/229/trunk/src/DoctrineModule/Validator/ObjectExists.php
+END

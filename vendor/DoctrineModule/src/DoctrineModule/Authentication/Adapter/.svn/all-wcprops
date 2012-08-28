@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/doctrine/DoctrineModule/!svn/ver/279/trunk/src/DoctrineModule/Authentication/Adapter
+END
+DoctrineObjectRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/doctrine/DoctrineModule/!svn/ver/257/trunk/src/DoctrineModule/Authentication/Adapter/DoctrineObjectRepository.php
+END
+ObjectRepository.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/doctrine/DoctrineModule/!svn/ver/279/trunk/src/DoctrineModule/Authentication/Adapter/ObjectRepository.php
+END

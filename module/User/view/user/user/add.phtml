@@ -1,0 +1,24 @@
+<?php
+
+/**
+ * Add view script
+ */
+
+?>
+<h1>Add a new User</h1>
+<?php
+$form->setAttribute('action', $this->url('user', array('action'=>'add')))
+     ->prepare();
+
+echo $this->form()->openTag($form);
+
+$userFieldset = $form->get('user');
+
+echo $this->formHidden($form->get('security'));
+echo $this->formHidden($userFieldset->get('id'));
+echo $this->formRow($userFieldset->get('name'));
+echo $this->formRow($userFieldset->get('motto'));
+
+echo $this->formInput($form->get('submit'));
+
+echo $this->form()->closeTag($form);

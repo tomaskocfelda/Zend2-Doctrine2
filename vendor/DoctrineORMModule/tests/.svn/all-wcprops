@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/doctrine/DoctrineORMModule/!svn/ver/264/trunk/tests
+END
+TestConfiguration.php.dist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/doctrine/DoctrineORMModule/!svn/ver/210/trunk/tests/TestConfiguration.php.dist
+END
+Bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/doctrine/DoctrineORMModule/!svn/ver/264/trunk/tests/Bootstrap.php
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/doctrine/DoctrineORMModule/!svn/ver/33/trunk/tests/.gitignore
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/doctrine/DoctrineORMModule/!svn/ver/151/trunk/tests/phpunit.xml
+END

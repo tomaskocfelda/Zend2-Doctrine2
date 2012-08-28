@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/doctrine/DoctrineModule/!svn/ver/229/trunk/tests/DoctrineModuleTest/Service/TestAsset
+END
+DummyEventSubscriber.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/doctrine/DoctrineModule/!svn/ver/229/trunk/tests/DoctrineModuleTest/Service/TestAsset/DummyEventSubscriber.php
+END

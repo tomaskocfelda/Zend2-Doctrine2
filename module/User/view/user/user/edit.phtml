@@ -1,0 +1,27 @@
+<?php
+
+/**
+ * Viewscript Album
+ */
+// module/Album/view/album/album/edit.phtml:
+
+$title = 'Edit user';
+$this->headTitle($title);
+?>
+<h1><?= $title ?></h1>
+<?php
+$form->setAttribute('action', $this->url('user', array('action'=>'edit')))
+     ->prepare();
+
+echo $this->form()->openTag($form);
+
+$userFieldset = $form->get('user');
+
+echo $this->formHidden($form->get('security'));
+echo $this->formHidden($userFieldset->get('id'));
+echo $this->formRow($userFieldset->get('name'));
+echo $this->formRow($userFieldset->get('motto'));
+
+echo $this->formInput($form->get('submit'));
+
+echo $this->form()->closeTag($form);

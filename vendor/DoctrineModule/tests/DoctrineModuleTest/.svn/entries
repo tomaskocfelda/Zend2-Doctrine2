@@ -1,0 +1,80 @@
+10
+
+dir
+292
+https://github.com/doctrine/DoctrineModule/trunk/tests/DoctrineModuleTest
+https://github.com/doctrine/DoctrineModule
+
+
+
+2012-08-16T08:09:58.000000Z
+280
+marco.pivetta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+793c54d1-7b57-ca0f-bb1d-ce57b7db7bff
+
+Authentication
+dir
+
+Service
+dir
+
+Stdlib
+dir
+
+Cache
+dir
+
+Paginator
+dir
+
+Validator
+dir
+
+ServiceManagerTestCase.php
+file
+
+
+
+
+2012-08-23T13:47:59.435365Z
+2e66ffbd2756105f1df8ed0f69bd12b2
+2012-08-16T08:09:58.000000Z
+271
+marco.pivetta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2529
+

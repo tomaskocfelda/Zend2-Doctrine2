@@ -1,0 +1,34 @@
+<?php
+
+/**
+ * User view script
+ */
+
+$title = 'User Overview';
+$this->headTitle($title);
+?>
+<h1><?php echo $this->escapeHtml($title); ?></h1>
+<p>
+  <a href="<?php echo $this->url('user', array('action'=>'add'));?>">Add new User</a>
+</p>
+<?php foreach ($users as $user) : ?>
+<article>
+  <h1><?php echo $user->getName();?></h1>
+  <p>
+    <?php echo $this->escapeHtml($user->getMotto());?>
+  </p>
+  <aside>
+    <ul>
+      <li><a href="<?php echo $this->url('user', array(
+        'action'=>'edit',
+        'id'=>$user->getId()
+      ));
+      ?>">Edit this User</a></li>
+      <li><a href="<?php echo $this->url('user', array(
+        'action'=>'delete',
+        'id'=>$user->getId()
+      ));?>">Delete this User</a></li>
+    </ul>
+  </aside>
+</article>
+<?php endforeach; ?>

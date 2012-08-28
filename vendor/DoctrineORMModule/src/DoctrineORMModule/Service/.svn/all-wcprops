@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/doctrine/DoctrineORMModule/!svn/ver/270/trunk/src/DoctrineORMModule/Service
+END
+DBALConnectionFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/doctrine/DoctrineORMModule/!svn/ver/228/trunk/src/DoctrineORMModule/Service/DBALConnectionFactory.php
+END
+SQLLoggerCollectorFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/doctrine/DoctrineORMModule/!svn/ver/252/trunk/src/DoctrineORMModule/Service/SQLLoggerCollectorFactory.php
+END
+ConfigurationFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/doctrine/DoctrineORMModule/!svn/ver/270/trunk/src/DoctrineORMModule/Service/ConfigurationFactory.php
+END
+EntityManagerFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/doctrine/DoctrineORMModule/!svn/ver/252/trunk/src/DoctrineORMModule/Service/EntityManagerFactory.php
+END
+DBALConfigurationFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/doctrine/DoctrineORMModule/!svn/ver/228/trunk/src/DoctrineORMModule/Service/DBALConfigurationFactory.php
+END
+EntityResolverFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/doctrine/DoctrineORMModule/!svn/ver/264/trunk/src/DoctrineORMModule/Service/EntityResolverFactory.php
+END
