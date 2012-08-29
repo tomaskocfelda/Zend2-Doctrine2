@@ -1,3 +1,0 @@
-[submodule "modules/wget"]
-	path = Doctrine
-	url = https://github.com/tomaskocfelda/Doctrine.git
