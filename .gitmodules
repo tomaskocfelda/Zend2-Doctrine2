@@ -1,3 +1,15 @@
 [submodule "vendor/Doctrine"]
 	path = vendor/Doctrine
 	url = https://github.com/tomaskocfelda/Doctrine.git
+
+[submodule "vendor/DoctrineModule"]
+	path = vendor/Doctrine
+	url = https://github.com/tomaskocfelda/DoctrineModule.git
+
+[submodule "vendor/DoctrineORMModule"]
+	path = vendor/DoctrineORMModule
+	url = https://github.com/tomaskocfelda/DoctrineORMModule.git
+
+[submodule "vendor/zf2"]
+	path = vendor/zf2
+	url = https://github.com/tomaskocfelda/zf2.git
