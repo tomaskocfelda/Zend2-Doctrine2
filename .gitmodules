@@ -3,7 +3,7 @@
 	url = https://github.com/tomaskocfelda/Doctrine.git
 
 [submodule "vendor/DoctrineModule"]
-	path = vendor/Doctrine
+	path = vendor/DoctrineModule
 	url = https://github.com/tomaskocfelda/DoctrineModule.git
 
 [submodule "vendor/DoctrineORMModule"]
