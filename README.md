@@ -42,7 +42,19 @@ Run SQL create script /data/db/create-script.sql
 
 #### 3. Setting virtual host
 
-Set up a virtual host to point to the public/ directory.
+Set up a virtual host to point to the public/ directory. Vhost record could look like this:
+
+    <VirtualHost 127.0.0.1>
+        ServerName zf-doctrine.localhost
+        DocumentRoot "C:\PATH_TO_APPLICATION\public"
+        SetEnv APPLICATION_ENV "development"
+        <Directory "C:\PATH_TO_APPLICATION\public">
+            DirectoryIndex index.php
+            AllowOverride All
+            Order allow,deny
+            Allow from all
+        </Directory>
+    </VirtualHost>
 
 #### 4. Running application
 
